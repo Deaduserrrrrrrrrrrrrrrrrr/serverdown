@@ -66,10 +66,10 @@ import os
 # @PrivateFileTg #from keep_alive import keep_alive
 # @PrivateFileTg #keep_alive()
 # @PrivateFileTg # insert your Telegram bot token here
-bot = telebot.TeleBot('7404398814:AAEPfYnOtbGj673xDenAo_bjr2T10jpCFsw')
+bot = telebot.TeleBot('6888653559:AAE9sYjhG9rTcKfYwdeLV1fV8PFCStwp-SM')
 
 # @PrivateFileTg # Admin user IDs
-admin_id = ["1066119640"]
+admin_id = ["5061116131"]
 
 # @PrivateFileTg # File to store allowed user IDs
 USER_FILE = "users.txt"
